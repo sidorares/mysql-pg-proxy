@@ -1,0 +1,30 @@
+{
+  "name": "mysql-pg-proxy",
+  "version": "0.0.1",
+  "description": "mysql to postgres proxy server",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sidorares/mysql-pg-proxy.git"
+  },
+  "keywords": [
+    "mysql",
+    "pg",
+    "postgres",
+    "postgresql",
+    "sql",
+    "proxy",
+    "server",
+    "bridge"
+  ],
+  "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "mysql2": "> 0.8.9",
+    "pg": "~1.1.2"
+  }
+}

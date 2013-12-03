@@ -41,3 +41,7 @@ or clone repo & do `npm install`
     | pg_catalog | pg_class     | locomote   | NULL       | true       | false    | false       |
     +------------+--------------+------------+------------+------------+----------+-------------+
     5 rows in set (0.00 sec)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sidorares/mysql-pg-proxy/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+

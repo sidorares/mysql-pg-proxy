@@ -25,6 +25,6 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "mysql2": "> 0.8.9",
-    "pg": "~1.1.2"
+    "pg": "~6.1.5"
   }
 }

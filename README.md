@@ -1,6 +1,8 @@
 mysql-pg-proxy
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/mysql-pg-proxy.svg)](https://greenkeeper.io/)
+
 mysql to postgres proxy server
 
 ## Installation
